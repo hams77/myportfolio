@@ -1,9 +1,6 @@
-Hamsini
-
-
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hamsini</h1>
 
-<p><Hamsini> is a passionate DevOps Engineer from India, working on Cloud and DevOps Projects as Intern.</p>
+<p><Hamsini> I'm a passionate DevOps Engineer from India, working on Cloud and DevOps Projects as Intern.</p>
 <h1 align="center"> Hi there! </h1>
 <p align="center">I'm <strong>Hamsini</strong>, a passionate <strong>DevOps Engineer</strong> from India. Welcome to my GitHub profile! 🚀</p>
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
